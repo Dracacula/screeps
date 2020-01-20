@@ -1,0 +1,2 @@
+# screeps
+screeps_scripts
